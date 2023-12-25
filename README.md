@@ -1,5 +1,5 @@
-# Pre Alpha v1.0.1
-### [v1.0.1] [For Lethal Company v45] Lethal CMod is a modpack with over +30 Mods!
+# Pre Alpha v1.0.2
+### [v1.0.2] [For Lethal Company v45] Lethal CMod is a modpack with over +30 Mods!
 
 #### Features:
 - Increases the difficulty of vanilla Lethal Comapany!
@@ -13,14 +13,14 @@
 #### On new version releases, we recommend reinstalling the modpack!
 Just downlaod it from 
 <a href="https://thunderstore.io/package/Lethal_CMod/?section=modpacks" target="_blank">Thunderstore</a>
-or from our GitHub website.
-
-#### GitHub coming soon!
+or from our <a href="https://github.com/LethalCMod">GitHub</a> website.
 
 ---
 ### Update Calendar
 
-- ~~25.12.2023 [v1.0.1]~~
+- ~~25.12.2023 [v1.0.1] Hotfix~~
+
+- ~~25.12.2023 [v1.0.2] Hotfix~~
 
 - 29.12.2023 [v1.1.0]
 
@@ -48,6 +48,18 @@ Removed
 - Terminal_Clock
 - AdditionalSuits
 ```
+
+### v1.0.2
+```
+Fixes
+- Fixed README.md file
+- Fixed some other issues
+
+Improvements
+- Added GitHub link
+
+```
+
 </details>
 
 ---
